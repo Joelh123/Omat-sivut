@@ -1,0 +1,28 @@
+.header {
+    padding-top: 14%;
+    padding-bottom: 10%;
+    text-align: center;
+    font-size: x-large;
+    background-color: #c7ffd8;
+}
+
+.taustavari {
+    background-color: #dbffe6;
+}
+
+.opinnot_muotoilu {
+    padding-top: 7%;
+}
+
+.harrastukset_muotoilu {
+    padding-top: 10%;
+    padding-bottom: 7%;
+}
+
+.suurempi_teksti {
+    font-size: x-large;
+}
+
+body {
+    position: relative;
+}
